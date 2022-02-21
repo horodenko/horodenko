@@ -1,6 +1,6 @@
+# 👋 Hi!
 
-
-
+My name is Daniel Horodenko, i'm 20 years old and i live in Barueri/São Paulo, Brazil.
 
 - 🌱 I’m currently learning Android Development on DIO
 - :video_game:Tech an RPG lover
