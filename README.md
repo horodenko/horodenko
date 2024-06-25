@@ -6,7 +6,7 @@ Web Developer
 
 * 🌍  I'm based in Brazil.
 * ✉️  You can contact me at [danhorodenko@hotmail.com](mailto:danhorodenko@hotmail.com)
-* 🤝  I'm open to collaborating on Angular 2+ projects.
+* 🤖 Front-end focused on Angular 2+ | Software Engineer . 
 
 ### Skills
 
