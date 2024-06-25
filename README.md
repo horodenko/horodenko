@@ -1,9 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Daniel! Let me present a little about myself 😁
 ==============================================================================================================================
 
-Web Developer
--------------
-
 * 🌍  I'm based in Brazil.
 * ✉️  You can contact me at [danhorodenko@hotmail.com](mailto:danhorodenko@hotmail.com)
 * 🤖  Front-end focused on Angular 2+ | Web Developer. 
