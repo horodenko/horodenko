@@ -2,8 +2,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==============================================================================================================================
 
 * 🌍  I'm based in Brazil.
-* ✉️  You can contact me at [danhorodenko@hotmail.com](mailto:danhorodenko@hotmail.com)
-* 🤖  Front-end focused on Angular 2+ | Web Developer. 
+* ✉️  You can contact me at [horodenkodan@gmail.com](mailto:horodenkodan@gmail.com)
+* 🤖  Frontend focused on Angular | Web Developer. 
 
 ### Skills
 
